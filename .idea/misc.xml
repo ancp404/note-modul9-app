@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable-v24/bg_button.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable-v24/bg_input.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable-v24/mail.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable/bg.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable/bg_input2.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/drawable/logo_google_background.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/activity_add_note.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/activity_buat_note.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/activity_insert_note.xml" value="0.259375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/item.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/item_note.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/list.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/list_note.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/modul9/app/src/main/res/mipmap-anydpi-v26/logo_google.xml" value="0.1995" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">modul9</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="uid">Uid</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome">Selamat Datang,</string>
+    <string name="add_note">Tambah Note</string>
+    <string name="register">Don’t have an account? <a href="">Register now</a></string>
+    <string name="terms">By signing up, you are agree with our <a href="">Terms &amp; Conditions</a></string>
+</resources>
